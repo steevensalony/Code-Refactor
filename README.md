@@ -25,3 +25,5 @@ Rutgers Bootcamp.
 # License
 
 MIT licence
+
+theme: minima
