@@ -1,5 +1,7 @@
 # First Bootcamp Challenge
 
+![E52D9A8F-7D23-4B6B-AB37-6123388E4ED6](https://user-images.githubusercontent.com/108702715/211221096-b9ec1a99-9849-42a9-a23c-3cf74f68c59c.jpeg)
+
 ## HTML, CSS, and Git: Code Refactor
 
 This is the first challenge for the Bootcmap course which requires us to refactor a code.
