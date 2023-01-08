@@ -14,7 +14,7 @@ This challenge taught me to write cleaner code, to be more descriptive with my t
 ## Instalation
 
 To install this code, simply click on the url to my repository [https://github.com/steevensalony/code-refactor] and clone the ssh key to your local machine. 
-this is also the link to the refactored website [file:///Users/steeven/code-refactor/02-Challenge/Develop/index.html]
+this is also the link to the refactored website [https://steevensalony.github.io/code-refactor/]
 
 ## Usage
 
